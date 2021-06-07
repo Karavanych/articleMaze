@@ -1,0 +1,3 @@
+The General Data Protection Regulation (GDPR) requires developers to provide a way for people to request that their data be deleted. 
+We are not uses your personal data, like a email,name or others.
+But anyway you can write to us on email evkaravashkin@gmail.com for all questions.
