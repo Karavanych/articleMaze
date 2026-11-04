@@ -1,0 +1,64 @@
+Terms of Service
+Last updated: November 4, 2026
+
+These Terms of Service ("Terms") govern your use of Block puzzle (the "Game"), provided by Evgeny Karavashkin ("we", "us", or "our"). By downloading, installing, or using the Game, you agree to these Terms. If you do not agree, do not use the Game.
+
+Eligibility
+
+You must be legally able to accept these Terms. If you are a minor under the laws of your country, your parent or legal guardian must review and agree to these Terms and authorize any purchases. You must also comply with the age requirements applicable to the Game and your Google Play account.
+
+License to Use the Game
+
+We grant you a personal, limited, non-exclusive, non-transferable license to use the Game for your own non-commercial entertainment, subject to these Terms and applicable law. The Game, including its code, graphics, sounds, and other content, is owned by us or our licensors. These Terms do not transfer ownership of any intellectual property to you.
+
+You may not copy, modify, distribute, sell, or reverse engineer the Game, except as permitted by applicable law or with our written permission.
+
+Advertising and Third-Party Services
+
+The Game may display advertisements and use third-party services. Your use of third-party services and interaction with advertisements may be subject to those providers' terms and privacy policies. We do not control third-party websites, advertisements, or the products and services they offer. This does not affect any responsibility we have under applicable law.
+
+In-App Purchases
+
+The Game is free to download and may offer optional in-app purchases, such as virtual items, additional features, or an option to remove certain advertisements. The description, price, and any limitations of each purchase are shown before you confirm it. The description of an ad-removal purchase determines which advertisements it removes.
+
+Purchases through Google Play Billing are also subject to the applicable Google Play terms: https://play.google.com/intl/en_us/about/play-terms/index.html. You must have permission to use the payment method you select. We do not receive your full payment card details from Google Play.
+
+Virtual items and purchased features are licensed for use within the Game. They have no cash value and cannot be sold, transferred, or exchanged for money outside the Game, except where applicable law requires otherwise.
+
+Eligible non-consumable purchases may be restored using the same Google account, through the Game's supported restoration process where available. Consumable items that have already been used are not restored as unused items. Reinstalling the Game or changing devices may result in loss of locally stored progress or items if they are not backed up or synchronized. Contact us if a paid purchase is missing or was not delivered.
+
+Refunds and Purchase Support
+
+Refunds are handled in accordance with applicable law and Google Play's refund policies: https://support.google.com/googleplay/answer/2479637?hl=en. You may request a refund through Google Play or contact us for assistance with a purchase. Include your Google Play order ID and a description of the issue; do not send passwords or full payment card details.
+
+Nothing in these Terms removes any mandatory right to a refund, withdrawal, repair, replacement, or other remedy under applicable consumer-protection law. If a purchase is refunded or reversed, access to the corresponding item or feature may be removed, subject to applicable law.
+
+Acceptable Use
+
+You agree not to use the Game unlawfully, infringe the rights of others, interfere with its operation, gain unauthorized access to systems or data, bypass payment or security measures, or use cheats or exploit vulnerabilities to obtain items or features without authorization.
+
+Updates, Availability, and Termination
+
+We may update or change the Game to improve gameplay, fix issues, maintain compatibility, or meet legal requirements. Some features may require an internet connection, a compatible device, or an updated version of the Game.
+
+We may suspend or discontinue the Game or restrict access for a material violation of these Terms. Where reasonably practicable, we will provide advance notice of changes that materially affect paid content or of discontinuation, and an opportunity to resolve a violation. Immediate action may be necessary for security, fraud prevention, or legal reasons. Any changes or termination remain subject to applicable law and your rights concerning purchased content.
+
+You may stop using the Game at any time and uninstall it from your device. Uninstalling the Game does not automatically request a refund.
+
+Disclaimer and Limitation of Liability
+
+To the extent permitted by applicable law, the Game is provided on an "as is" and "as available" basis, without warranties of uninterrupted or error-free operation. To the extent permitted by applicable law, Evgeny Karavashkin will not be liable for indirect, incidental, special, or consequential damages arising from use of, or inability to use, the Game.
+
+Nothing in these Terms excludes or limits liability for fraud, intentional misconduct, death or personal injury caused by negligence, or any other liability or statutory consumer right that cannot lawfully be excluded or limited.
+
+Privacy
+
+Our collection and use of information are described in the Block puzzle Privacy Policy: https://raw.githubusercontent.com/Karavanych/articleMaze/master/blockPuzzle.txt.
+
+Changes to These Terms
+
+We may update these Terms from time to time. The revised version will be posted on this page with an updated "Last updated" date. For material changes, we will provide reasonable advance notice through the Game or another appropriate method, and obtain consent where required by law. Changes apply from the stated effective date and will not retroactively remove rights you already have. If you do not agree to the updated Terms, stop using the Game.
+
+Contact Us
+
+If you have questions about these Terms or need help with an in-app purchase, contact Evgeny Karavashkin at evkaravashkin@gmail.com.
